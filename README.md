@@ -1,5 +1,7 @@
 **Hello, I am SAHEB**
 
+Hey there,👋 I'm SAHEB a 21-year-old BCA undergrad who is passionate about Software Development, UI/UX Design and Product Management. i'm a creative and skilled full stack Developer and maintaining responsive websites. Proficient in HTML, CSS, JavaScript, mongoDB, Express.js,React.js and Node.js in addition to modern libraries and frameworks.
+
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - ♂️ Pronouns (He/His/Him)
